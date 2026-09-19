@@ -3,7 +3,7 @@ import telebot
 import yt_dlp
 
 # حط التوكن حقك هنا اللي طلعته من BotFather
-TOKEN = "8932107945:AAGfl0QWHOHv27bGj_zTqr7Z9I7AoAATW34"
+TOKEN = "8932107945:AAGfl0QWHOHv27bGj_zTqr7Z9l7AoAATW34"
 bot = telebot.TeleBot(TOKEN)
 
 
